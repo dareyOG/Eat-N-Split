@@ -1,3 +1,16 @@
+# Eat-N-Split
+
+This is a simple app that helps in splitting bills at lunch or dinner amongst friends or colleagues.
+Built with react.js using the concept of state management.
+
+On inputting the bill, it's paid either by the user or a selected friend.
+
+> **Technologies used:**
+
+>* React.js (state management)
+
+>* vanillaCSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +81,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Eat-N-Split
